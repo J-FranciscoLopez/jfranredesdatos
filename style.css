@@ -10,9 +10,9 @@
 }
 
 .titulo2{
-    color:green;
+    color:maroon;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(38, 0, 255);
 }
 .texto2{
     font-family: 'Courier New', Courier, monospace;
@@ -21,9 +21,9 @@
 }
 
 .titulo3{
-    color:blue;
+    color:green;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(20, 217, 128);
 }
 .texto3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -32,9 +32,9 @@
 }
 
 .titulo4{
-    color:blue;
+    color:gray;
     text-align: center;
-    background-color: yellow;
+    background-color:yellow;
 }
 .texto4{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -54,9 +54,9 @@
 }
 
 .titulo6{
-    color:blue;
+    color:rgb(255, 0, 0);
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(52, 52, 19);
 }
 .texto6{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
